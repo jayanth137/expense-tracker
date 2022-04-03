@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+<h1>Expense Tracker (React)</h1>
+This is a React Expense Tracker. It uses functional components with hooks and the context API
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
